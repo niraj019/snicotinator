@@ -1,0 +1,11 @@
+
+
+correctness_graph;  CORRECTNESS
+beta; REAL
+w; REAL
+v1; REAL
+
+a2; 		REAL
+delta_t;	REAL
+d_max;		REAL
+erl_norm;	REAL
